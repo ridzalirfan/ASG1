@@ -16,6 +16,13 @@ Assignment 1
  <li>Showing all merch (Shirts, accessories)</li>
  <li>Price shown below merch picture</li>
  <li>Slideshow of pictures when cursor pointed on product</li>
- <li>CLicking on product leads to cart page</li></ul>
+ <li>Clicking on product leads to cart page</li></ul>
+ 
+ <strong>Contact us page</strong>:<ul>
+ <li>Links to social media websites with logo of social media website</li>
+ <li>Office tel number</li>
+ <li>Sign up for newsletter</li></ul>
+ 
+ 
 
 </p>
