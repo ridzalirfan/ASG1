@@ -5,6 +5,8 @@ Assignment 1
  <strong>Company name</strong>: (Undecided) <br>
  <strong>Goal (User)</strong>: To shop for company's merch <br>
  <strong>Goal (Company)</strong>: To present and sell merch, and advertise company <br>
+ 
+ On all the pages, there will be a sticky navigation bar at the top.
 
  <strong>Pages</strong>:<ul>
  <li>Shopping page</li>
