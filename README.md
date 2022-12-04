@@ -1,4 +1,5 @@
 # ASG1
+
 Assignment 1
 
 <p>
@@ -8,7 +9,8 @@ Assignment 1
  
  On all the pages, there will be a sticky navigation bar at the top.
 
- <strong>Pages</strong>:<ul>
+<strong>Pages</strong>:<ul>
+
  <li>Shopping page</li>
  <li>Contact us page (also at the bottom of every page)</li>
  <li>Home page showcasing best products and introduction</li>
@@ -24,7 +26,13 @@ Assignment 1
  <li>Links to social media websites with logo of social media website</li>
  <li>Office tel number</li>
  <li>Sign up for newsletter</li></ul>
+
+<strong>References</strong>:<ul>
+
+ <li>uniqlo.com</li>
+ <li>courts.com.sg</li>
+ <li>freepik.com</li></ul>
  
- 
+
 
 </p>
